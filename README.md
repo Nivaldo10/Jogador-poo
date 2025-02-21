@@ -76,8 +76,6 @@ Jogador de linha: chutar() → Tenta chutar a bola.
 
 Jogador de linha: defender() → Tenta defender a bola.
 
-Jogador de linha: defender() → Tenta defender a bola.
-
 Cada ação usa os atributos do jogador (como força, reflexos, precisão) para determinar o sucesso e exibe uma mensagem correspondente. Por exemplo:
 
 "Hugo Sousa agarrou a bola!"
