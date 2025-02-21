@@ -42,7 +42,7 @@ O método __str__ define como o objeto Time será exibido quando convertido para
 
 * criação dos objetos
 
-No arquivo main.py será importado as classes JogadorGoleiro, JogadorLinha e TimeFutebol. O main.py vai ser responsavel por criar os objetos jogadores e time
+No arquivo main.py estará importado as classes JogadorGoleiro, JogadorLinha e TimeFutebol. O main.py vai ser responsavel por criar os objetos jogadores e time
 
 Criando jogadores
 
