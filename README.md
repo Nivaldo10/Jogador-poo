@@ -87,3 +87,48 @@ Cada ação usa os atributos do jogador (como força, reflexos, precisão) para 
 "Menphis chutou com força!"
 
 "Romero defendeu com sucesso!"
+
+# Resultado esperado
+
+Hugo Sousa foi adicionado ao Time Corinthians.
+
+Menphis foi adicionado ao Time Corinthians.
+
+Romero foi adicionado ao Time Corinthians.
+
+
+Jogadores do Time Corinthians:
+
+Jogador(nome = Hugo Sousa, altura = 196, velocidade = 60, passe = 60, drible = 50, precisao = 70)
+
+Jogador(nome = Menphis, altura = 178, velocidade = 80, passe = 50, drible = 85, precisao = 90)
+
+Jogador(nome = Romero, altura = 175, velocidade = 85, passe = 40, drible = 80, precisao = 85)
+
+
+Realizando ações dos jogadores:
+
+Hugo Sousa está tentanto agarrar a bola
+
+Menphis está chutando a bola com força de 100 km/h.
+
+Romero está defendendo com os pés, cabeça ou ombro.
+
+Romero está tentando tirar a bola do adversário.
+
+Removendo um jogador:
+
+Romero foi removido do Time Corinthians.
+
+
+
+Jogadores do Time Corinthians:
+
+Jogador(nome = Hugo Sousa, altura = 196, velocidade = 60, passe = 60, drible = 50, precisao = 70)
+
+Jogador(nome = Menphis, altura = 178, velocidade = 80, passe = 50, drible = 85, precisao = 90)
+
+
+Informações do time:
+
+Corinthians, total de jogadores = 2
