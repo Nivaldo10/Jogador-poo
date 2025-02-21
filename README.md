@@ -48,9 +48,7 @@ Criando jogadores
 
 jogador1 = JogadorGoleiro("Hugo Sousa", 196, 60, 60, 50, 70):
 
-Cria um objeto da classe JogadorGoleiro com os atributos fornecidos.
-
-O método __init__ da classe Jogador é chamado para inicializar os atributos.
+Cria um objeto da classe JogadorGoleiro com os atributos fornecidos e o método __init__ da classe Jogador é chamado para inicializar os atributos.
 
 jogador2 = JogadorLinha("Menphis", 178, 80, 50, 85, 90):
 
@@ -64,7 +62,7 @@ Criando o time
 
 time1 = TimeFutebol("Corinthians"):
 
-Cria um objeto da classe TimeFuncio com o nome "Corinthians".
+Cria um objeto da classe TimeFutebol com o nome "Corinthians".
 
 O método __init__ da classe Time é chamado para inicializar o nome e a lista vazia de jogadores.
 
