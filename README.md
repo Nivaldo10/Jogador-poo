@@ -1,4 +1,4 @@
-# O código é sobre jogador de futebol
+# Projeto final sobre POO - Jogador de futebol
 
 * Definição das classes
 
