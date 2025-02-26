@@ -1,4 +1,4 @@
-# O código é dividido em três partes principais: Definição das classes, criação dos objetos e execução das ações
+# O código é sobre jogador de futebol
 
 * Definição das classes
 
